@@ -1,2 +1,1 @@
-# .github
-Github Repositories for the Choate Robotics Wired Boars team 7407
+# Github Repositories for the Choate Robotics Wired Boars team 7407
